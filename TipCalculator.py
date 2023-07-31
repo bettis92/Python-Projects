@@ -7,4 +7,4 @@ bill_total = round(bill_total, 2)
 total_w_tip = ((tip_perc / 100)+1) * bill_total
 div_num = total_w_tip / num_people
 
-print(f"Each person should pay: ${round(div_num, 2)}")124.
+print(f"Each person should pay: ${round(div_num, 2)}")
