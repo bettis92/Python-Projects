@@ -1,4 +1,4 @@
-
+#This Band name generator is a demonstration of inputs and string formating.
 
 
 
